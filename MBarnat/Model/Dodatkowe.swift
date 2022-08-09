@@ -20,5 +20,6 @@ var dodatkoweData = [
     Dodatkowe(title: "CoreData", level: 2, image: Image("iOS"), color: Colors.H.one),
     Dodatkowe(title: "Git", level: 2, image: Image("struct"), color: Colors.H.two),
     Dodatkowe(title: "Realm", level: 3, image: Image("struct"), color: Colors.H.three),
-    Dodatkowe(title: "Cocoapods", level: 4, image: Image("struct"), color: Colors.H.one)
+    Dodatkowe(title: "Cocoapods", level: 4, image: Image("struct"), color: Colors.H.one),
+    Dodatkowe(title: "Firebase", level: 2, image: Image("struct"), color: Colors.H.two)
 ]
